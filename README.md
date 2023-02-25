@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE Student<br>Frontend Dev<br>Developing Amazing Webpages<br>Full Stack Web Development Course<br>Frontend Developing<br>I prefer smart work rather doing hard work
+CSE Student<br>Frontend Dev<br>Developing Mindblowing Webpages<br>Currently Full Stack Web Development Course @coding ninja<br>ON WAY-A complete Web developer<br>I prefer smart work rather doing hard work
 
 
 ## 🌐 Socials:
