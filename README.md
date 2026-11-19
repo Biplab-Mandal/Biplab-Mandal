@@ -1,24 +1,23 @@
-# 💫 About Me:
-CSE Student<br>Frontend Dev<br>Developing Mindblowing Webpages<br>Currently Full Stack Web Development Course @coding ninja<br>ON WAY-A complete Web developer<br>I prefer smart work rather doing hard work
+﻿# Biplab Mandal
 
+**AI Engineer | Backend Developer | Software Development Engineer**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blexed_lipun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Biplab Mandal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Biplab_iitian) 
+I build Python-based AI applications and backend services, with a focus on LLM applications, retrieval-augmented generation (RAG), and APIs. My project work includes document question-answering, meeting-audio processing, and real-time collaboration.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Biplab-Mandal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Biplab-Mandal&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Biplab-Mandal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[My Portfolio](https://portfolio-kappa-dun-1iy5fs24qa.vercel.app) | [GitHub Profile](https://github.com/Biplab-Mandal)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@Biplab_iitian)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## Technical Skills
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Backend and APIs:** FastAPI, Django REST Framework, Node.js, Express
+- **AI and retrieval:** LLM applications, RAG, LangChain, ChromaDB, Ollama, Hugging Face
+- **Data and infrastructure:** SQLite, MongoDB, MySQL, Redis, Docker
+- **Frontend:** React, Next.js
 
----
-[![](https://visitcount.itsvg.in/api?id=Biplab-Mandal&icon=0&color=1)](https://visitcount.itsvg.in)
+## Selected Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **[AI ComplianceBot](https://github.com/Biplab-Mandal/ai-compliancebot)** — A document-focused compliance assistant using Django REST, Celery, Redis, ChromaDB, Ollama, and Next.js.
+- **[Nippon FundDoc RAG](https://github.com/Biplab-Mandal/nippon-funddoc-rag)** — A Streamlit prototype for question-answering over mutual-fund scheme documents using LangChain, Chroma, Hugging Face embeddings, and OpenAI.
+- **[IVTEX](https://github.com/Biplab-Mandal/IVTEX)** — A FastAPI meeting-audio pipeline using FFmpeg, Faster-Whisper, and pyannote for transcription and speaker diarization.
+- **[CollabSync](https://github.com/Biplab-Mandal/collabsync)** — A real-time collaboration application using React, TypeScript, Express, and Socket.IO.
+- **[Asana RL Seed Data](https://github.com/Biplab-Mandal/asana-rl-seed-data)** — Python generators and a SQL schema for creating deterministic Asana-style workspace seed data.
